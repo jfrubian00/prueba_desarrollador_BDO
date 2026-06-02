@@ -1,0 +1,7 @@
+Para la Parte 1 Terraform AWS se generaron los archivos para la creación de los recursos solicitados en el ejercicio.
+En el ejercicio se conecta con mi cuenta personal a través de AWS CLI.
+
+También se crearon breves descripciones para la solución de cada parte según lo solicitado en la prueba técnica
+
+
+Gracias.
