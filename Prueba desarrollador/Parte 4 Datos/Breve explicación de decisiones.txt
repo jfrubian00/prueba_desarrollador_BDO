@@ -1,0 +1,9 @@
+Breve explicación de las decisiones tomadas para el modelo creado:
+
+- Se decidió crear el modelo siguiendo un esquema estrella, ya que según la información disponible, únicamente se necesita una tabla de hechos que relaciona las 4 dimensiones.
+
+- Se les identifico la llave natural (NK) a cada dimensión y tabla de hechos, al igual que se les incluyó un campo con la llave subrrogada (SK)correspondiente, propia de un modelo dimensional. Se dejó las NK como STR para evitar problemas de longitud de números, además de obtener el mismo tipo de dato en todas las NK
+
+- Se agrego un prefijo del tipo de dato en cada campo de las dimensiones
+
+-En las métricas buscadas fueron el monto total (por tipo de transferencia o por persona), además de mostrar la cantidad de s por tipo de transferencia. Se puede evidenciar como el cliente Grupo Éxito fue quien movio más monto de dinero en comparación a los demás.

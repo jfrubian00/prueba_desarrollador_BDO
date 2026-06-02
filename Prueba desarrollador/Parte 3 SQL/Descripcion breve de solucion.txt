@@ -1,0 +1,3 @@
+Para la Parte 3 SQL de la prueba técnica, se desarrollador los dos scripts solicitados en donde uno tiene el procedimiento almacenado y el otro la vista. Se agregó un tercer archivo el cuál contiene los DDL y DML utilizados para la creación de las tablas y registros usados para el ejemplo. Además, también se agrega la creación de una secuencia para la auto incrementación del ID de prestamos y asi evitar errores en la ejecución del procedimiento almacenado.
+
+Gracias.

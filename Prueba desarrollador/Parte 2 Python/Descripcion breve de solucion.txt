@@ -1,0 +1,3 @@
+Para la parte 2 Python de la prueba técnica se desarrollaron dos scripts para dar respuesta a los dos ejercicios planteados en la prueba. En el ejercicio 2 se hace el uso del dataset "Gaming_Academic_Performance.csv" que también se encuentra adjunto en la carpeta para garantizar el acceso a la información, ya que descargar el DataSet a partir de las librerías de https://www.kaggle.com/ podía generar problemas al ejecutar.
+
+Gracias
